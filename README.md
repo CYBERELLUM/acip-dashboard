@@ -1,2 +1,8 @@
-# acip-dashboard
-sattelite
+# ACIP Dashboard
+
+Federated satellite of ACIP HYDRA-CORE.
+
+## Federation Status
+- Core: echo-001
+- Category: ENTERPRISE
+- Features: analytics, reporting, payments
